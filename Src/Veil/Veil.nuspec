@@ -13,8 +13,8 @@
     <tags>veil template render format view engine</tags>
   </metadata>
     <files>
-      <file src="lib\net40\Veil.dll" target="lib\net40" />
-      <file src="lib\net40\Veil.pdb" target="lib\net40" />
-      <file src="lib\net40\Veil.xml" target="lib\net40" />
+      <file src="bin\Release\Veil.dll" target="lib\net40" />
+      <file src="bin\Release\Veil.pdb" target="lib\net40" />
+      <file src="bin\Release\Veil.xml" target="lib\net40" />
     </files>
 </package>
