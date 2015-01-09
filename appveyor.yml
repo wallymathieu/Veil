@@ -1,4 +1,3 @@
 install:
   - choco install nodejs 
-build:
   - Build\Build.cmd
