@@ -34,6 +34,8 @@
     <Optimize>false</Optimize>
     <OutputPath>lib\net40</OutputPath>
     <WarningLevel>4</WarningLevel>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
