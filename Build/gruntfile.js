@@ -62,7 +62,8 @@ module.exports = function (grunt) {
                     expand: true,
                     cwd: '../Src/Nuspec/',
                     src: ['*.nuspec'],
-                    dest: 'dist/'
+                    dest: 'dist/',
+                    flatten: true
                 }]
             },
             lib: {
